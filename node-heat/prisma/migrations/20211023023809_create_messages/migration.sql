@@ -1,0 +1,8 @@
+-- CreateTable
+CREATE TABLE "Messages" (
+    "id" TEXT NOT NULL PRIMARY KEY,
+    "text" TEXT NOT NULL,
+    "createdAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "user_Id" TEXT NOT NULL,
+    CONSTRAINT "Messages_user_Id_fkey" FOREIGN KEY ("user_Id") REFERENCES "Users" ("id") ON DELETE RESTRICT ON UPDATE CASCADE
+);
