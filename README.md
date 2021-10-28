@@ -4,7 +4,7 @@ Some considerations:
 
 This is a project made during NLW Heat week.
 
-This project was really important, because increased my knowledgement about libs, ts and what js can do.
+This project was really important, because increased my knowledgement about libs, ts, module css and what js can do.
 
 And I saw what packages like socket, prisma and jwt can do.
 
