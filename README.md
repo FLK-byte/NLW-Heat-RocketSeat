@@ -1,6 +1,19 @@
 # NLW-Heat-RocketSeat
 
-Some considerations:
+# About The project: 
+The objective of this project was make a real time message system.
+
+_1 Step_:
+
+Firstly we defined the back-end making all the treatment of infos like cadastration of messages, user and relationing them, using the following packages: express, cors, dotenv, jwt, axios, typeScript, prisma for ORM and socket.io to make the connection in real time.
+
+_2Step_:
+
+Now we make the front-end, putting one display for messages and one side of the website to login with GitHub's account and using GitHub's Api, to get our informations about the user.   
+
+
+
+# Some considerations:
 
 This is a project made during NLW Heat week.
 
