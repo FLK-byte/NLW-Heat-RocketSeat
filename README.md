@@ -9,7 +9,7 @@ Firstly we defined the back-end making all the treatment of infos like cadastrat
 
 _2Step_:
 
-Now we make the front-end, putting one display for messages and one side of the website to login with GitHub's account and using GitHub's Api, to get our informations about the user.   
+Now we make the front-end, putting one display for messages and one side of the website to login with GitHub's account and using GitHub's Api we get our informations about the user.   
 
 
 
