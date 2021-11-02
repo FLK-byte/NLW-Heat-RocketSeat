@@ -21,4 +21,4 @@ This project was really important, because increased my knowledgement about libs
 
 And I saw what packages like socket, prisma and jwt can do.
 
-Now i gonna isolate some packages and features to learn more about them, and understand how them work prorpely, you can wait more projects using theese features comming soon =)
+Now, with the project finished, i gonna isolate some packages and features to learn more about them, and understand how them work prorpely, you can wait more projects using theese features comming soon =)
