@@ -19,4 +19,4 @@ Este projeto foi muito importante, pois aumentou meu conhecimento sobre libs, ts
 
 E eu vi o que pacotes como socket, prisma e jwt podem fazer.
 
-Agora vou isolar alguns pacotes e recursos para aprender mais sobre eles e entender como eles funcionam adequadamente, você pode esperar mais projetos usando esses recursos em breve =)
+Agora com o projeto finalizado vou isolar alguns pacotes e recursos para aprender mais sobre eles e entender como eles funcionam adequadamente, você pode esperar mais projetos usando esses recursos em breve =)
